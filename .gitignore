@@ -1,2 +1,5 @@
 practice&delete.sol
 .gitignore
+node_modules
+artifacts
+.states/
